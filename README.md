@@ -1,4 +1,4 @@
-# x5quiz
+# x5gon-quiz
 Moj projekt za Inovacijski IT-šprint Pošte Slovenije, ki je potekal 23. in 24. januarja 2020.  
 Spletna stran dogodka: <https://postartup.si/sprint-poste-slovenije-2020/>
 
